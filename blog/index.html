@@ -17,10 +17,10 @@ pagination:
 
   <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <h3>{{ site.blog_description }}</h3>
   </div>
 
-  {% if site.display_tags %}
+  <!-- {% if site.display_tags %}
   <div class="tag-list">
     <ul class="p-0 m-0">
       {% for tag in site.display_tags %}
@@ -33,9 +33,10 @@ pagination:
       {% endfor %}
     </ul>
   </div>
-  {% endif %}
+  {% endif %} -->
 
   <ul class="post-list">
+    <p> More Coming ..... </p>
     {% for post in paginator.posts %}
 
     {% if post.external_source == blank %}
