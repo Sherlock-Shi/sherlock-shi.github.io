@@ -16,7 +16,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 <br>
 
-> Haoran is an psychologist committed to applying [data science]({% post_url 2023-03-15-data-science %}) and [behavioral insights]({% post_url 2023-03-15-behavioral-insights %}) to promote social cohesion and reduce [partisan polarization]({% post_url 2023-03-15-partisan-polarization %}). 
+> Haoran is an psychologist committed to applying `data science` and `behavioral insights` to promote social cohesion and reduce `partisan polarization`.
+<!-- > Haoran is an psychologist committed to applying [data science]({% post_url 2023-03-15-data-science %}) and [behavioral insights]({% post_url 2023-03-15-behavioral-insights %}) to promote social cohesion and reduce [partisan polarization]({% post_url 2023-03-15-partisan-polarization %}).  -->
 
 <br>
 
