@@ -14,7 +14,7 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'Listen'
+    gem 'listen'
     # gem 'wdm', '>=0.1.0'
     # gem 'mini_racer'
     gem 'unicode_utils'
