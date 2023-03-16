@@ -3,7 +3,6 @@ layout: page
 title: Psychology and Wider Science
 description: Promote interdisciplinary research and awareness of basic psychology
 img: assets/img/3.jpg
-importance: 2
 category: Work
 ---
 

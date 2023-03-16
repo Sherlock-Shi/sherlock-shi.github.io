@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Party and Identity 
-description: Synthesizing the empirical literature on the antecedents of partisan polarization.
+title: Polarization Antecedents Review
+description: This systematic review/meta-analysis aims to develop a comprehensive framework for the antecedents of partisan strength, serving as a starting point for PhD.
 img: assets/img/12.jpg
-importance: 1
 category: Work
 ---
 
