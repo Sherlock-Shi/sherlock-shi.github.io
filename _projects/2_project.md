@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Psychology and Wider Science
+description: Promote interdisciplinary research and awareness of basic psychology
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: Work
 ---
 
 Every project has a beautiful feature showcase page.

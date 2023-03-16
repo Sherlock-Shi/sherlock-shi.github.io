@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Party and Identity 
+description: Synthesizing the empirical literature on the antecedents of partisan polarization.
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Work
 ---
 
 Every project has a beautiful feature showcase page.
