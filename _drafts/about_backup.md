@@ -18,6 +18,8 @@ social: true  # includes social icons at the bottom of the page
 
 > Haoran is an psychologist committed to applying [data science](https://www.liebertpub.com/doi/full/10.1089/big.2013.1508?mod=article_inline) and [behavioral insights](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.108.6.1265) to promote social cohesion and reduce [partisan polarization](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2008.00333.x?casa_token=dxq6PMEBmDIAAAAA%3AgGBo9Vz1DnrYaGicVwyTfImOPaOxj7CNRyzGZvqBdszykiQu0ylAS504DfVj0wL3bcN82G_f4IPgzapQCA).
 
+<!-- Haoran is an psychologist committed to applying [data science]({% post_url 2023-03-15-data-science %}) and [behavioral insights]({% post_url 2023-03-15-behavioral-insights %}) to promote social cohesion and reduce [partisan polarization]({% post_url 2023-03-15-partisan-polarization %}) -->
+
 <br>
 
 ---
@@ -26,6 +28,9 @@ social: true  # includes social icons at the bottom of the page
 Haoran's research is at the interaction of human cognition, political behavior and statistical modeling. He uses machine learning to explore the psychological factors driving partisan strength and conflict, develops and tests interventions to reduce social divisions and conflict, with the ultimate aim of creating a more sustainable and harmonious social and political environment. 
 
 He is now working on a systematic review with meta-analysis to build a comprehensive framework outlining the antecedents of partisan polarization. In his MSc dissertation, he investigated the effectiveness of short-term behavioral interventions in promoting self-interested decisions and explored ways in which these interventions could be utilized for positive outcomes. 
+<!-- He is now working on a [systematic review]({% post_url 2023-03-15-PP-review %}) with meta-analysis to build a comprehensive framework outlining the antecedents of partisan polarization. In his [MSc dissertation]({% post_url  2023-03-15-PP-review %}), he investigated the effectiveness of short-term behavioral interventions in promoting self-interested decisions and explored ways in which these interventions could be utilized for positive outcomes.  -->
+
+<!-- Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
 ---
 # Experience
