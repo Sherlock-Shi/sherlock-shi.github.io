@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student · LSE · Quirky Photographer & Musician 
+subtitle: PhD Student · LSE · Department of Psychological and Behavioral Science · Quirky Photographer & Musician 
 # A good photographer who doesn't aspire to be a musician lacks the soul of a true psychologist
 profile:
   align: right
