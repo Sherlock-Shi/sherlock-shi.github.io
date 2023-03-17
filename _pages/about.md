@@ -2,8 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: A Psychologist, A Film Photographer, A Music Producer and A Student
-
+subtitle: PhD Student · LSE · Quirky Photographer & Musician 
+# A good photographer who doesn't aspire to be a musician lacks the soul of a true psychologist
 profile:
   align: right
   image: prof_pic.jpg
@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 # Summary
-Haoran's research is at the interaction of human cognition, political behavior and statistical modeling. He uses machine learning to explore the psychological factors driving partisan strength and conflict, develops and tests interventions to reduce social divisions and conflict, with the ultimate aim of creating a more sustainable and harmonious social and political environment. 
+Haoran's PhD research is at the interaction of human cognition, political behavior and statistical modeling. He uses machine learning to explore the psychological factors driving partisan strength and conflict, develops and tests interventions to reduce social divisions and conflict, with the ultimate aim of creating a more sustainable and harmonious social and political environment. 
 
 He is now working on a systematic review with meta-analysis to build a comprehensive framework outlining the antecedents of partisan polarization. In his MSc dissertation, he investigated the effectiveness of short-term behavioral interventions in promoting self-interested decisions and explored ways in which these interventions could be utilized for positive outcomes. 
 
