@@ -60,7 +60,7 @@ Of course, I also hope that you finding something interesting, inspiring or beau
 </div>
 
 <div class="caption">
-    So I think it was a Friday evening, I finished all the works I needed to do that day and decided to take a walk alongside the Thames. I personally don't skateboard, but I though it was quite cool to see people so passionate about skateboarding that when I captured it on camera, they are all a blur. The other sign is from a theater close to where I live. The red lights remind me of how nights in London trully are chaotic. 
+    So I think it was a Friday evening, I finished all the works I needed to do that day and decided to take a walk alongside the Thames. I personally don't skateboard, but I t it was quite cool to see people so passionate about skateboarding that when I captured it on camera, they are all a blur. The other sign is from a theater close to where I live. The red lights remind me of how nights in London trully are chaotic. 
 </div>
 
 ---
