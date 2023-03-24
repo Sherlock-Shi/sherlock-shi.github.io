@@ -50,16 +50,3 @@ This is one of my earlist work that I am still quite proud of. This song belongs
 This songs is comparative more complicated in production than the previous two simply because it included many more tracks and sound effects. What I like the most from this production is the dreamy vocal in the chorus. I got the piano to sound as if it is walking from the left to the right with the vocal chanting from where the piano left off. *It is a effect that I still haven't been able to replicate, but I am still trying*.
 
 After two repetition of the chorus, the song goes directly to a place where I would call here "ether". It is a place where the melody remain monotonic with most changed in the song driven by the texture and the atmospheric sound. This part of the song was originally a separate production, I merged the two because I think it makes sense that the listener would be in a dreamy state after the chorus.
-
-
-
-<!-- <figure>
-    <figcaption>Functional</figcaption>
-    <audio
-        controls
-        src="/assert/audio/MN/Functional.mp3"
-        controlslist = "nodownload">
-            <a href="/assert/audio/Functional.mp3">
-            </a>
-    </audio>
-</figure> -->
