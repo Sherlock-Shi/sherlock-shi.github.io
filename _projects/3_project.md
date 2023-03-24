@@ -7,13 +7,12 @@ category: Fun
 ---
 
 <figure>
-    <figcaption>Music 1 </figcaption>
+    <figcaption>Functional</figcaption>
     <audio
         controls
-        src="/assert/audio/Functional.mp3"
+        src="/assert/audio/MN/Functional.mp3"
         controlslist = "nodownload">
             <a href="/assert/audio/Functional.mp3">
-                Download audio
             </a>
     </audio>
 </figure>
