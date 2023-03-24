@@ -23,10 +23,10 @@ Of course, I also hope that you finding something interesting, inspiring or beau
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="./assets/img/Meet her.jpg" title="遇见" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/meet.jpg" title="遇见" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="./assets/img/早餐.jpg" title="早餐" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/早餐.jpg" title="早餐" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -38,10 +38,10 @@ Of course, I also hope that you finding something interesting, inspiring or beau
 ## Are you coming?
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="./assets/img/StandingMen.jpg" title="中年男人" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/StandingMen.jpg" title="中年男人" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="./assets/img/站街.jpg" title="等待的人" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/站街.jpg" title="等待的人" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -52,7 +52,7 @@ Of course, I also hope that you finding something interesting, inspiring or beau
 ## What are you doing?
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="./assets/img/模糊.jpg" title="模糊的人" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/模糊.jpg" title="模糊的人" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="./assets/img/招牌.jpg" title="招牌" class="img-fluid rounded z-depth-1" %}
