@@ -7,74 +7,75 @@ importance: 2
 category: Fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Most of time, life is made of *purely random stuff*. I woke up on Monday to find that I got cold, which stopped me from biking to school too early, which made me take the tube, which made me realize how many shitty things could happen if I didn't catch the cold. **I don't love the randomness in my life**, so even for the pictures I've taken in this project, I often go out prepared rather than unexpected. However, there are many instances in this project where I think the **randomness is the beauty of the picture**. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+That said, *I am not a trained photographer*, I am not trained to have an aethetic eye, I am not trained to have a perfect sense of composition, I am not trained to have a perfect sense of color, I am not trained to have a perfect sense of light. I started this project with the passion of capturing something out of my ordinary life. Not for recording, not for documenting. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This project started from a *5-pound film camera* I purchased at Durham. It doesn't have the fancy features of a DSLR, but it just simply works. I don't have to worry about the battery, I don't have to worry about the memory card, I don't have to worry about the lens. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+> I hope it captures something, so that when I come back years later, I remember not by memory, but by the pictures. 
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+Of course, I also hope that you finding something interesting, inspiring or beautiful in these pictures too <a href="#section1">[1]</a>
 
+---
+
+## Shall we meet?
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/FbF/Meet her.jpg" title="遇见" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/FbF/早餐.jpg" title="早餐" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    I took those two back when I was at my master. Both cafes are quite close to where I used to live. I sometimes go to the second cafe for breakfast (they have quite a variety of things you can order while being affordable), so once in a while I see people grouping outside the cafe to get their breakfast. I think it's less common these days to see people being so absorbed in the menues or conversations instead of phones. 
+</div>
+
+---
+## Are you coming?
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/FbF/StandingMen.jpg" title="中年男人" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/FbF/站街.jpg" title="等待的人" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    When I took those two, I actually didn't anticipate them to be so "lonely". Now looking at the picture, it felt like if they were waiting or talking with someone who will never come (I hope not). The scence is especially lonely when you think about the fact that they are standing in the middle of a busy street. I guess, sometimes, we are all waiting for someone who will never come.
 </div>
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
+---
+## What are you doing?
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/FbF/模糊.jpg" title="模糊的人" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/FbF/招牌.jpg" title="招牌" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-```
-{% endraw %}
+
+<div class="caption">
+    So I think it was a Friday evening, I finished all the works I needed to do that day and decided to take a walk alongside the Thames. I personally don't skateboard, but I though it was quite cool to see people so passionate about skateboarding that when I captured it on camera, they are all a blur. The other sign is from a theater close to where I live. The red lights remind me of how nights in London trully are chaotic. 
+</div>
+
+---
+## Are you still waiting?
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/FbF/依靠.jpg" title="依靠" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/FbF/你好吗.jpg" title="你好吗" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    I certainly believe in romance (perhaps too much). My partner and I often discuss what the word even means and how the expression of romance differes so dramatically between me and her. I think it perhaps is some combination of compromise and courage. Compromise, so we can keep it together. Courage, so we can keep it alive like the dance on the right. 
+</div>
+---
+<p id="section1">[1] All pictures are free to use for non-commercial purposes given that you reference them. Please contact me if you want to use them for commercial purposes.</p>
