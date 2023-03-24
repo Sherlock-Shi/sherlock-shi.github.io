@@ -23,10 +23,10 @@ Of course, I also hope that you finding something interesting, inspiring or beau
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/meet.jpg" title="遇见" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/meet.JPG" title="遇见" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/早餐.jpg" title="早餐" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/早餐.JPG" title="早餐" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
