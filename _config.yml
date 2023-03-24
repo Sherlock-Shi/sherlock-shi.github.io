@@ -24,10 +24,10 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # Language for multi-language site
 # -----------------------------------------------------------------------------
 
-languages: ["en", "zh_CN"]
-default_lang: "en"
-exclude_from_localization: ["javascript", "images", "css", "public"]
-parallel_localization: false
+# languages: ["en", "zh_CN"]
+# default_lang: "en"
+# exclude_from_localization: ["javascript", "images", "css", "public"]
+# parallel_localization: false
 
 # -----------------------------------------------------------------------------
 # Theme

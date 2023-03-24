@@ -20,7 +20,7 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem 'jekyll-mermaid'
-    gem "jekyll-polyglot"
+    # gem "jekyll-polyglot"
 end
 
 group :other_plugins do
