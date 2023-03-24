@@ -2,7 +2,7 @@
 layout: page
 title: Mind Noise
 description: Mind Noise is a music project that explores the depths of the human psyche through chaotic and emotive soundscapes. 
-img: assets/img/12.jpg
+img: assets/img/MindNoise.png
 category: Fun
 ---
 
@@ -31,7 +31,7 @@ Or... you simply don't like "Remedy Collect", let's see if I can get another one
 <br>
 Again, you may find the name strange, and I totally agree with you. What am I trying to do with this name? I have no idea to be honest, but one thing I'm sure of is that the song captures the type of yelling I would express in the morning if I am at the beach. "Cassette" probably captures more of the compression I used in the song. 
 
-So what am I actually doing with this piece of music? I imagined that the opening occured under water, with a men talking "hear that music" to pull me out of the deep water I was stuck in, giving rise to the verb and chorus of the song. The song is picking up momentum from the verb and carries to the chorus with the gradual introduction of wobbyly synth at the back. The verb is also accompanied by the heavy use of bass to carry the melody, which transitioned to fully synthetic melodies in the chorus. This transition was partly due to fact that I think classical instrument was too dull, whereas synthetic ones carries much more energy and emotion. 
+So what am I actually doing with this piece of music? I imagined that the opening occured under water, with a men talking "hear that music" to pull me out of the deep water I was stuck in, giving rise to the verse and chorus of the song. The song is picking up momentum from the verse and carries to the chorus with the gradual introduction of wobbyly synth at the back. The verse is also accompanied by the heavy use of bass to carry the melody, which transitioned to fully synthetic melodies in the chorus. This transition was partly due to fact that I think classical instrument was too dull, whereas synthetic ones carries much more energy and emotion. 
 
 You can probably hear the synthesization gradually eating into the whole song with the whole drum kit becoming pixelated and heavily compressed. With the gradual entry of my vocal, you hear the **final yell from me trying to walk out of the deep water I got myself into in the beginning**.
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Frames by Frame
+title: Frame by Frame
 description: Frame by Frame is a London-based film photography project that captures the beauty and randomness of daily life through raw and unfiltered moments.
 img: assets/img/3.jpg
 importance: 2
